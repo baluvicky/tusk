@@ -1,0 +1,7 @@
+created by bala chintapalli
+
+steps
+goto dominos
+select the pizza
+order it
+
